@@ -1,3 +1,4 @@
 .idea/*
 .idea/vcs.xml
 *.pyc
+git commit -m "Remove .idea folder and update .gitignore"
